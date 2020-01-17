@@ -16,3 +16,4 @@ Repósitório para RHs e RECRUTADORES
 - Discord: tech3br#8740 - *tente apenas tech3br, caso de algo errado ao adicionar*
 - Emails Profissionais: dfsdireito95@gmail.com / techbr6@gmail.com
 - GitHub: @tech3br
+Att, Daniel Filgueira
