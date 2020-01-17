@@ -4,7 +4,7 @@ Repósitório para RHs e RECRUTADORES
 
 # ATENÇÃO
 
-* Para os RECRUTADORES & RHs: Neste repositório existem os arquivos criados por mim em AULAS e/ou PROJETOS, viabilizando a análise, de trabalhos e participações em projetos de T.I *
+* Para os RECRUTADORES & RHs: Neste repositório existem os arquivos criados por mim em AULAS e/ou PROJETOS, viabilizando a análise de trabalhos e participações em projetos de T.I *
 
 * Este reposistório serve também como PORTFÓLIO. *
 
